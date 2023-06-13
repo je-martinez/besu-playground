@@ -1,1 +1,0 @@
-curl -X POST --data '{"jsonrpc":"2.0","method":"admin_addPeer","params":["enode://589b4384e0b6b0b5f61f4556ab7ec9cb4d7260a501e17aa9131ee14e1bbda56c832b4100c97cecf02bac29e11d365c807e2080729316c59bb5ba1f43a7d2d693@127.0.0.1:30304"],"id":1}' http://127.0.0.1:8548
